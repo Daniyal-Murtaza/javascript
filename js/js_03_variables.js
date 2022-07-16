@@ -70,7 +70,7 @@ console.log(city); //global
 
 ---------------------------------
 
-//case 3: (throw error)
+//case 3: (throw errors)
 // var city = "Lahore"; //global
 {
     let city = "karachi"; //local
