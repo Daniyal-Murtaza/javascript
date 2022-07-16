@@ -22,8 +22,7 @@ console.table({brook:"this", big:5});
 //to throw error
 // console.warn("this is a warning");
 
-//to clear
-// console.clear();
+
 
 // (step2) To see runtime of your code
 console.timeEnd("your code took");
@@ -33,5 +32,8 @@ console.assert(566<189 , "age should be less than 189");
 
 //error
 console.error("This is an error");
+
+//to clear
+// console.clear();
 
 
