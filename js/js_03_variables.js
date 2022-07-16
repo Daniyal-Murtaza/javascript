@@ -87,7 +87,7 @@ console.log(city); //global
 - but we can perform operation on the already declared once 
 */
 
-const arr = [55,66,77];
+const arr = [55, 66, 77];
 arr.push(88);
 console.log(arr);
 
