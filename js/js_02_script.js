@@ -2,7 +2,7 @@
 console.time("your code took");
 
 // can print anything
-console.log("external msg");
+console.log("externally msg");
 
 // can use it as a calculator
 console.log(67*9);
